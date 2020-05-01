@@ -1,0 +1,2 @@
+rootProject.name='streaming-android'
+include ':app'
